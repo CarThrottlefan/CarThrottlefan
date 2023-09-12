@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarThrottlefan
 - 👀 I’m interested in the automotive industry, computer hardware, machine learning and computational photography
-- 🌱 I’m currently doing a Bachelor's of CS at VU Amsterdam, 1st year
+- 🌱 I’m currently doing a Bachelor's of CS at VU Amsterdam, 2nd year
 - 💞️ I’m looking to collaborate on projects, and also to get to grips with writing code in C++, Python, Full-Stack Web Development
 - 📫 How to reach me: email - alexandervici@gmail.com; discord - CarThrottlefan#1110
 
